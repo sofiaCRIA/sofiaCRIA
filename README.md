@@ -1,5 +1,5 @@
-Olá
-Meu nome é Maria Sofia 
+Olá,
+Meu nome é Maria Sofia, 
 Estou desenvolvendo um projeto no Javascript, sobre um jogo de ping pong.
 Quero trabalhar na área de direito e fazer um concurso.
 Nas terças e quintas faço espanhol, porque quero viajar e estudar na espanha.
